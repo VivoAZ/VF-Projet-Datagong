@@ -1,7 +1,7 @@
-# Prédiction du prix 
+# Prédiction des résultats électoraux  
 
 ## Description 
-Un projet de classification binaire pour prédire les résultats des élections présidentielles des USA entre republicains et démocrates en se basant sur quatres différentes tables des données sociodémographiques. Il s'agit de mon projet de soutenance de fin de formation.   
+Un projet de Machine Learning supervisé basé sur la classification binaire pour prédire les résultats des élections présidentielles des USA entre republicains et démocrates à l'aide de quatres différentes tables de données sociodémographiques. Il s'agit de mon projet de soutenance de fin de formation chez DATAGONG !    
 
 ## Structure et les données du projet 
 
